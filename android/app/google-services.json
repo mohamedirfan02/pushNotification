@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "188701911900",
+    "project_id": "demonotification-5aa2b",
+    "storage_bucket": "demonotification-5aa2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188701911900:android:83489dd7c2ebcc39c46f99",
+        "android_client_info": {
+          "package_name": "com.example.messagerdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgUn4vd6jKlPNH3upvUMlS09LX5ZpTIaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
